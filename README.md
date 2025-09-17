@@ -63,16 +63,6 @@ I'm a Computer Science student at the University of Waterloo with a passion for 
 - AI feedback using Google Gemini 2.0 Flash
 - Dynamic movement comparison against reference choreography
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jam-Cai&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jam-Cai&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" />
-</div>
-
 
 ## 🤝 Let's Connect!
 
