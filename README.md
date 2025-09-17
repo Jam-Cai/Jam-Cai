@@ -1,4 +1,4 @@
-# Hi there, I'm James Cai 👋
+# Hi there, I'm James 👋
 
 ## 🚀 About Me
 I'm a Computer Science student at the University of Waterloo with a passion for building innovative software solutions. I love working on everything from automotive systems to AI-powered applications.
