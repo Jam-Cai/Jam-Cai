@@ -71,5 +71,3 @@ I'm a Computer Science student at the University of Waterloo with a passion for 
 - 📧 **Email:** james.cai@uwaterloo.ca
 
 ---
-
-*"Building software that makes a difference, one commit at a time."*
