@@ -3,8 +3,8 @@
 ## 🚀 About Me
 I'm a Computer Science student at the University of Waterloo with a passion for building innovative software solutions. I love working on everything from automotive systems to AI-powered applications.
 
-- 🎓 **Studying:** Honours Bachelor of Computer Science (BCS) at University of Waterloo
-- 💼 **Experience:** Software Engineering Intern at Ford Motor Company & Mysti.ai
+- 🎓 **Studying:** CS @ UWaterloo
+- 💼 **Experience:** Incoming @ Shopify, Prev @ Ford
 - 🌐 **Portfolio:** [jamescai.com](https://jamescai.com)
 
 ## 🛠️ Tech Stack
