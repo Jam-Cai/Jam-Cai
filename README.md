@@ -1,6 +1,6 @@
 # James Cai
 
-CS @ UWaterloo · Incoming @ Shopify · Prev @ Ford
+CS @ UWaterloo · Intern @ Shopify · Prev @ Ford
 
 ![Visitors](https://komarev.com/ghpvc/?username=Jam-Cai&color=gray&style=flat&label=visitors)
 
