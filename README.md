@@ -1,6 +1,6 @@
 # James Cai
 
-CS @ UWaterloo · Intern @ Shopify · Prev @ Ford
+CS @ UWaterloo · SWE Intern @ Endex · Prev @ Shopify
 
 ![Visitors](https://komarev.com/ghpvc/?username=Jam-Cai&color=gray&style=flat&label=visitors)
 
